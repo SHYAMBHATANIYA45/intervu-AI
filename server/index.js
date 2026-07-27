@@ -14,7 +14,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://intervu-ai-1-0atq.onrender.com",
     credentials: true,
   })
 );

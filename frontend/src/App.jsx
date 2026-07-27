@@ -11,7 +11,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
-export const serverUrl = "http://localhost:8000" // 8000 port pe run kr rha he
+export const serverUrl = "https://intervu-ai-dnw8.onrender.com" // 8000 port pe run kr rha he
 function App() {
   //use to dispatch data 
    const dispatch = useDispatch();
